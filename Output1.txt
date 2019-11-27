@@ -1,5 +1,0 @@
-ARIMA(callback=None, disp=0, maxiter=None, method=None, order=(1, 1, 2),
-      out_of_sample_size=0, scoring='mse', scoring_args=None,
-      seasonal_order=(0, 1, 1, 4), solver='lbfgs', start_params=None,
-      suppress_warnings=True, transparams=True, trend=None,
-      with_intercept=True)
